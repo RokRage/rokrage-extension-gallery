@@ -8,9 +8,9 @@
 - Excluded local logs and macOS metadata from publication.
 - Captured, reviewed, and approved the RokNotes workspace and Settings images.
 - Added the approved RokNotes gallery section to the repository README.
-
-## Remaining
-
-- Add approved gallery images for Excel Viewer, VSDX Viewer, HL7 Toolkit, and
-  Markdown PDF.
-- Replace or extend example filenames as the final image sets are chosen.
+- Captured and approved three Excel Viewer images covering the workbook,
+  searchable filters, and Health Connect export.
+- Created and approved an original non-clinical VSDX architecture diagram.
+- Captured and approved the HL7 Toolkit message viewer and Stylish Markdown PDF
+  launch brief.
+- Added every approved image to the repository README.
