@@ -29,3 +29,12 @@ Use lowercase, descriptive filenames such as `hero.png`, `editor.png`, and
 `settings.png`. Prefer PNG for screenshots and SVG only for artwork that needs
 to scale.
 
+## RokNotes
+
+### Searchable notes workspace
+
+![RokNotes searchable notes workspace](roknotes/hero.png)
+
+### Local database settings
+
+![RokNotes local database settings](roknotes/settings.png)
